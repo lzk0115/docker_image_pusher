@@ -10,4 +10,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #jc21/nginx-proxy-manager
 #nyanmisaka/jellyfin:latest
-xinjiawei1/emby_unlockd:stable
+#xinjiawei1/emby_unlockd:stable
+deluan/navidrome:latest
+xhongc/music_tag_web:latest
